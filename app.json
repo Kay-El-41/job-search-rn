@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "Jobs",
+    "slug": "job-search",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "f156a6f9-1f56-4ee5-8ede-160d3d71657d"
+      }
+    },
+    "owner": "kayel",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f156a6f9-1f56-4ee5-8ede-160d3d71657d"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
